@@ -39,6 +39,7 @@ h1 {
     border-radius: 12px;
     backdrop-filter: blur(2px);
     backdrop-filter: hue-rotate(180deg);
+    /* backdrop-filter: brightness(0.6); */
 }
 
 .container::-webkit-scrollbar {
